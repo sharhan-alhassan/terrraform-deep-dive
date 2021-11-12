@@ -30,3 +30,17 @@ $ terraform fmt             # Terraform will print out the names of the files it
 
 $ terraform show            # show current state of resource
 ```
+
+- Create a `variables.tf` file to store variables in it. You can pass the file to `main.tf` or directly from CLI to pass values to it
+
+```hcl
+$ terraform apply -var "instance_name=Another web server"
+```
+
+- `Outputs`: Use outputs to give out infrastructure outputs after creation for easy query
+- Create `outputs.tf` file and paster this
+```hcl
+```
+```hcl
+$ terraform output
+```

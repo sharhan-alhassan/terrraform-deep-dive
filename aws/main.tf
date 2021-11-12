@@ -18,6 +18,6 @@ resource "aws_instance" "app_server" {
     ami = "ami-083654bd07b5da81d"
     instance_type = "t2.micro"
     tags = {
-        Name = "Web server"
+        Name = var.instance_name
     }
 }
