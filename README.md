@@ -44,3 +44,8 @@ $ terraform apply -var "instance_name=Another web server"
 ```hcl
 $ terraform output
 ```
+
+## Part 3: Using Modules
+- check directory: `learn-modules`
+
+- Do not include `providers` in modules. Proceed and just create your resources. 
