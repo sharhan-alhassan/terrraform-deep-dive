@@ -1,0 +1,17 @@
+https://learn.hashicorp.com/tutorials/terraform/module-create?in=terraform/modules
+
+https://book.learndevops.com.au/content/http_cats/terraform/
+
+https://www.youtube.com/watch?v=5oVV3MKQ6JU&list=PL0yQYCnvTmOvNvjaPXMIFx1SFJerk0pqv&index=5
+
+https://kubernetes.io/docs/tutorials/
+
+- seach youtube: terraform ci/cd with eks 
+- check whatsapp for bookmarked links
+
+
+https://tf-eks-workshop.workshop.aws/500_eks-terraform-workshop/590_cicd-app/sample-app.html
+
+- Cloudfruition ansible/terraform
+https://www.youtube.com/watch?v=pkEezNSFWtA
+
