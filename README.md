@@ -49,3 +49,5 @@ $ terraform output
 - check directory: `learn-modules`
 
 - Do not include `providers` in modules. Proceed and just create your resources. 
+
+- Edit
